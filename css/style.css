@@ -1,11 +1,10 @@
 body {
-  margin: 0;
-  font-family: 'Lato', sans-serif;
+    margin: 0;
 }
 
 #menu {
   text-align: center;
-  background: #222;
+  background: black;
   
 }
 
@@ -21,11 +20,11 @@ body {
 
 #menu .menu-item a{
   text-decoration: none;
-  color: #fff;
+  color: white;
 }
 
 #menu .menu-item a:hover{
-  color: #999;
+  color: black;
 }
 
 #header {
@@ -46,23 +45,23 @@ body {
   left: 0;
   right: 0;
   text-transform: uppercase;
-  color: #fff;
-  
+  color: white;
+
 }
 
 #about {
-  margin: 30px 0;
-  padding: 0 50px;
+    margin: 30px 0;
+    padding: 0 10px;
 }
 
 #about #about-header{
-  font-size: 30px;
-  text-align: center;
-  margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
 }
 
 #about .about-content{
-  text-align: center;
+    text-align: center;
 }
 
 #contact {
@@ -74,18 +73,18 @@ body {
   font-size: 30px;
   text-align: center;
   margin-bottom: 20px;
-  color: #fff;
+  color: white;
 }
 
 #contact #contact-content {
   text-align: center;
-  color: #fff;
+  color: white;
 }
 
 #contact #contact-content a {
-  color: #fff;
+  color: white;
 }
 
 #contact #contact-content a:hover {
-  color: #999;
+  color: black;
 }
